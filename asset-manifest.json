@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alanhungyl/osaka2025/static/css/main.5149b3b3.css",
+    "main.js": "/alanhungyl/osaka2025/static/js/main.0c724fc4.js",
+    "index.html": "/alanhungyl/osaka2025/index.html",
+    "main.5149b3b3.css.map": "/alanhungyl/osaka2025/static/css/main.5149b3b3.css.map",
+    "main.0c724fc4.js.map": "/alanhungyl/osaka2025/static/js/main.0c724fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5149b3b3.css",
+    "static/js/main.0c724fc4.js"
+  ]
+}
