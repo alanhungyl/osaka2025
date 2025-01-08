@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/osaka2025/static/css/main.5149b3b3.css",
-    "main.js": "/osaka2025/static/js/main.0d604b4d.js",
+    "main.css": "/osaka2025/static/css/main.7f8f418c.css",
+    "main.js": "/osaka2025/static/js/main.f65f4f5c.js",
     "index.html": "/osaka2025/index.html",
-    "main.5149b3b3.css.map": "/osaka2025/static/css/main.5149b3b3.css.map",
-    "main.0d604b4d.js.map": "/osaka2025/static/js/main.0d604b4d.js.map"
+    "main.7f8f418c.css.map": "/osaka2025/static/css/main.7f8f418c.css.map",
+    "main.f65f4f5c.js.map": "/osaka2025/static/js/main.f65f4f5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5149b3b3.css",
-    "static/js/main.0d604b4d.js"
+    "static/css/main.7f8f418c.css",
+    "static/js/main.f65f4f5c.js"
   ]
 }
